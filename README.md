@@ -1,13 +1,7 @@
-# Analytics Dashboard PGAGI-Intern-Task 🌟
+# Analytics Dashboard 🌟
 
 ## Live Demo
-🎉 The project is live at [Analytics Dashboard](https://pgagi-sde-interntask-atharv.vercel.app/).
-
-## Demo Video
-[Demo Video](https://drive.google.com/file/d/15355TrNVJl7iA0Tdn9Vwx0KnbVJ6kjok/view?usp=sharing).
-
-## [Detailed Documentation](https://docs.google.com/document/d/1p4FF6pSvlc27TKQ8QZYVV0bv0BaHjLVHLkqgWeCq5Jw/edit?usp=sharing).
-
+🎉 The project is live at [Analytics Dashboard](https://aryan-singh-analytical-dashboard.vercel.app/).
 
 
 ## Description
@@ -36,7 +30,7 @@ The **Analytics Dashboard** is a web application that integrates data from FOUR 
 - **Key Metrics**: Display current price, daily high/low, volume, and percentage change.
 
 ---
-## Bonus Task's Completed 🌟
+## IMDB API Integration 🌟
 - TMDB API Implemented with highly responsive frontend
 - User Authetication using Supabase
 - Higly Responsive Graphs and Chart in Weather and Stocks Sections
@@ -102,8 +96,8 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Atharvshukla/PGAGI-Intern-Task
-   cd PGAGI-Intern-Task
+   git clone https://github.com/aryan-s-ingh/Analytical-dashboard
+   cd Analytical-dashboard
     ```
 
 2. Install the dependencies:
@@ -238,12 +232,11 @@ To run this project locally, follow these steps:
 └── tsconfig.json
 ```
 
-## Commit History 
-![image](https://github.com/user-attachments/assets/0c342299-d0f7-4110-829c-d0289fcd152c)
 
-👤 Atharv Shukla<br>
-📧 atharvshukla.dev@gmail.com<br>
-🌐 http://atharvshukla.vercel.app<br>
+
+👤 Aryan SIngh<br>
+📧 Singh.ary.04@gmail.com<br>
+
 
 Happy Coding! 🚀
 
